@@ -1,0 +1,20 @@
+{
+  "name": "guccigang",
+  "version": "1.0.0",
+  "description": "for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwncy/gucci-gang.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dwncy/gucci-gang/issues"
+  },
+  "homepage": "https://github.com/dwncy/gucci-gang#readme"
+}
